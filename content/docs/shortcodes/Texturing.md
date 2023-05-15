@@ -12,6 +12,11 @@ Además, el texturizado también se utiliza para mapear imágenes o logotipos en
 
 En resumen, el texturizado es una técnica esencial en los gráficos por computadora que consiste en aplicar texturas a objetos 3D. Permite simular detalles visuales, mejorar la apariencia realista de los objetos y añadir información detallada a sus superficies. Al asignar coordenadas de textura y mapearlas a una textura 2D, se logra controlar cómo se aplica la textura y cómo interactúa con la luz, mejorando la calidad visual de los objetos y enriqueciendo la experiencia visual en entornos virtuales, videojuegos y animaciones.
 
+
+## Test
+
+{{< p5-div sketch="C:\Users\33647\Documents\GitHub\showcase\content\docs\shortcodes\code\Aug\Augus.js" >}}
+
 ## Example
 
 ```tpl

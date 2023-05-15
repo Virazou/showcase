@@ -59,7 +59,6 @@ Look at [this](https://en.wikipedia.org/wiki/Lilac_chaser) introductory referenc
     p5.noStroke();
     var opc = 0.4;
     var step = 3.0/r;
-
     for (var i = r; i > 0; i-=1.5) {
       if (opc < 5) {
         opc += step;
