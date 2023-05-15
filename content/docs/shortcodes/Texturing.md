@@ -15,14 +15,7 @@ En resumen, el texturizado es una técnica esencial en los gráficos por computa
 
 ## Test
 
-{{< p5-div sketch="C:\Users\33647\Documents\GitHub\showcase\content\docs\shortcodes\code\Aug\Augus.js" >}}
+{{< p5-iframe sketch="/showcase/content/docs/shortcodes/code/Aug/Augus.js"  width="725" height="425" >}}
 
-## Example
 
-```tpl
-{{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
-{{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
-```
 
-{{< button relref="/" >}}Get Home{{< /button >}}
-{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
