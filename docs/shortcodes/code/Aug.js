@@ -3,7 +3,7 @@ let amount;
 
 
 function preload() {
-  img = loadImage("C:\Users\33647\Documents\GitHub\showcase\content\docs\shortcodes\code\Aug\AugMar.jpg");
+  img = loadImage("AugMar.jpg");
   amount = 0.5;
 }
 
