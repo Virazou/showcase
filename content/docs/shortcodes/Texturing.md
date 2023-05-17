@@ -15,7 +15,7 @@ En resumen, el texturizado es una técnica esencial en los gráficos por computa
 
 ## Test
 
-{{< p5-iframe sketch="content/docs/shortcodes/code/Aug/Augus.js"  width="725" height="425" >}}
+{{< p5-iframe sketch="content\docs\shortcodes\code\Aug.js"  width="725" height="425" >}}
 
 
 
